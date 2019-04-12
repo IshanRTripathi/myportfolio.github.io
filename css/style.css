@@ -8936,9 +8936,9 @@ textarea.form-control {
 
 .ftco-vh-100 {
   height: 100vh; }
-  @media (max-width: 1199.98px) {
+  @media (max-width: auto) {
     .ftco-vh-100 {
-      height: inherit;
+      height: auto;
       padding-top: 5em;
       padding-bottom: 5em; } }
 
@@ -8955,7 +8955,7 @@ textarea.form-control {
 .ftco-section {
   padding: 7em 0;
   position: relative; }
-  @media (max-width: 767.98px) {
+  @media (max-width: auto) {
     .ftco-section {
       padding: 6em 0; } }
 
